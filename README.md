@@ -1,5 +1,3 @@
-![Python](https://user-images.githubusercontent.com/79420053/176183403-e1ccd4d7-b881-4fe4-913b-b8678ef6d85b.png)
-
 Claudio Fabian Stychnicki
 Data Scientist
 As a manager, commercial throughout my journey, I worked on numerous projects of analysis of adherence, requirements, processes, mapping of gaps/problems for the implementation of ERP solutions. With this information base built, it's time to help companies solve problems. My bias will always have as a premise, a focus and a careful look at the areas that are intrinsically linked to the business areas, for example: supply chain, Intel. Competitive market, looking at the strategic market, flight plan. I became a "Data Scientist-For-Busuness-Problems", to encapsulate all this know-how and analytical skills, to solve business problems, through technology. Having spent the last few years applying Machine Learning, Deep Learning with real business problems in different segments of the Brazilian market. I developed critical thinking and problem solving skills, based on over 35 years of process modeling and business rules improvement for ERP/SAAS and B.I. Consultant for commercial and strategic market planning and process modeling and implementation of high performance sales teams, as well as monitoring and training.
@@ -47,8 +45,4 @@ Veja os tutoriais e projetos no momento da publicação:
 - 👀 I am interested in jobs involving business management, competitive market intelligence and data science, such as data science and data scientist
 - 🌱 I am currently studying and deepening my knowledge of machine learning and deep learning, as well as knowledge of Python methodologies and codes for Data Scientist
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me
-- Dbian Technology-Data Scientist 
-- Phone: (47) 9.9237-4737
-- Blumenau - SC
-- Mail: fabian.claudio@outlook.com
+![Python7](https://user-images.githubusercontent.com/79420053/176471098-571c99d6-cdfe-480d-8a4b-e2777eb2646d.png)
