@@ -1,4 +1,4 @@
-![Python7](https://user-images.githubusercontent.com/79420053/176670626-8ed51db3-09fa-43df-9f9d-f853e826af5e.png)
+![Python7](https://user-images.githubusercontent.com/79420053/176708515-27278bff-e43f-4d89-bc25-35a36e6a4ceb.png)
 
 Hi, I'am Claudio Fabian Stychnicki
 
