@@ -1,4 +1,4 @@
-![Python7](https://user-images.githubusercontent.com/79420053/176708515-27278bff-e43f-4d89-bc25-35a36e6a4ceb.png)
+
 
 Hi, I'am Claudio Fabian Stychnicki
 
@@ -51,3 +51,4 @@ Veja os tutoriais e projetos no momento da publicação:
 - 👀 I am interested in jobs involving business management, competitive market intelligence and data science, such as data science and data scientist
 - 🌱 I am currently studying and deepening my knowledge of machine learning and deep learning, as well as knowledge of Python methodologies and codes for Data Scientist
 - 💞️ I’m looking to collaborate 
+![Python7](https://user-images.githubusercontent.com/79420053/176708515-27278bff-e43f-4d89-bc25-35a36e6a4ceb.png)
