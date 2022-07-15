@@ -1,7 +1,5 @@
 [![https://www.linkedin.com/company/dbian-technology-io/?viewAsMember=true](https://img.shields.io/badge/author-claudiofab-red.svg)](https://linkedin.com/in/claudio-fabian-stychnicki-28a17155) [![](https://img.shields.io/badge/python-3.7/10+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fabian-gib-50/Dbian-Data-Scientist)
 
-# Claudio Fabian Stychnicki 
-
 
 ![Python7](https://github.com/fabian-gib-50/Proj_airbnb/blob/main/data/Imagens/Dbianit.png?raw=true)
 
