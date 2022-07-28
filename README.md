@@ -4,7 +4,7 @@
 
 Hi, I'am Claudio Fabian Stychnicki
 
-Data Scientist
+Data Scientist and Data Science
 
 Welcome to my git profile
 
