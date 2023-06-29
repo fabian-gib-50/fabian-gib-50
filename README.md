@@ -1,3 +1,5 @@
+![New_banner](https://github.com/fabian-gib-50/fabian-gib-50/assets/79420053/278a95a3-a115-4611-90c3-69333b09facd)
+![Data_Science](https://github.com/fabian-gib-50/fabian-gib-50/assets/79420053/aa624370-26af-45a8-b097-606adf7e26dd)
 
 
 
